@@ -2,7 +2,7 @@
 
 namespace Roog
 {
-    class Program
+    class Program //whatever
     {
         static void Main(string[] args)
         {
